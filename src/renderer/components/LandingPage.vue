@@ -28,6 +28,7 @@
 import { mapState } from "vuex";
 
 export default {
+  // name: todo,
   data() {
     return {
       todoItemName: ""
